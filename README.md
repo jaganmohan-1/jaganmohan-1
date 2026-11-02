@@ -1,6 +1,6 @@
 
 <!-- =====================================================
-     JAGAN MOHAN VARIKUTI
+     JAGAN MOHAN 
      THE CINEMATIC DEVELOPER STORY
      GitHub: jaganmohan-1
 ====================================================== -->
@@ -41,7 +41,7 @@
 
 </div>
 
-<img width="100%" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1400&auto=format&fit=crop&q=85" alt="Technology and electronic innovation"/>
+<img width="75%" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1400&auto=format&fit=crop&q=85" alt="Technology and electronic innovation"/>
 
 ## 01 — THE BEGINNING | WHO AM I?
 
@@ -65,7 +65,7 @@ I believe that great developers are not simply people who write code. They are p
 
 <div align="center">
 
-<img width="90%" src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=85" alt="Global digital technology network"/>
+<img width="75%" src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=85" alt="Global digital technology network"/>
 
 ### THINK BEYOND THE ORDINARY.
 
@@ -114,7 +114,7 @@ Exploring connected devices, sensors, automation, and intelligent engineering.
 
 <div align="center">
 
-<img width="100%" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1400&auto=format&fit=crop&q=85" alt="Collaborative technology workspace"/>
+<img width="75%" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1400&auto=format&fit=crop&q=85" alt="Collaborative technology workspace"/>
 
 ### EVERY TOOL OPENS A NEW POSSIBILITY.
 
@@ -155,7 +155,7 @@ Exploring connected devices, sensors, automation, and intelligent engineering.
 
 <div align="center">
 
-<img width="100%" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1400&auto=format&fit=crop&q=85" alt="Electronic engineering and technology"/>
+<img width="75%" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1400&auto=format&fit=crop&q=85" alt="Electronic engineering and technology"/>
 
 ### IDEAS ARE ONLY THE BEGINNING. BUILDING MAKES THEM REAL.
 
@@ -208,7 +208,7 @@ Exploring energy-efficient routing algorithms to improve wireless sensor network
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=700&auto=format&fit=crop&q=80" alt="Agricultural landscape"/>
+<img width="75%" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=700&auto=format&fit=crop&q=80" alt="Agricultural landscape"/>
 
 ### 04. SMART AI CROP ADVISOR
 
@@ -223,7 +223,7 @@ An agriculture-focused concept using environmental sensing and AI-assisted crop 
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=700&auto=format&fit=crop&q=80" alt="Business analytics dashboard"/>
+<img width="75%" src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=700&auto=format&fit=crop&q=80" alt="Business analytics dashboard"/>
 
 ### 05. E-COMMERCE SALES ANALYTICS
 
@@ -236,7 +236,7 @@ Exploring customer behavior, sales performance, product trends, and business int
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=700&auto=format&fit=crop&q=80" alt="Night sky and stars"/>
+<img width="75%" src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=700&auto=format&fit=crop&q=80" alt="Night sky and stars"/>
 
 ### 06. THE NEXT CHAPTER
 
@@ -311,7 +311,7 @@ Electronics and Communication Engineering
 
 <div align="center">
 
-<img width="100%" src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=1400&auto=format&fit=crop&q=85" alt="Futuristic digital immersive technology"/>
+<img width="75%" src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=1400&auto=format&fit=crop&q=85" alt="Futuristic digital immersive technology"/>
 
 # THE BEST IDEAS GROW WHEN THEY ARE SHARED.
 
@@ -342,15 +342,15 @@ Whether it's software, AI, innovation, or a creative collaboration — let's con
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=footer&color=0:090B1A,30:312E81,65:6D28D9,100:0891B2&text=THE%20JOURNEY%20CONTINUES&fontSize=30&fontColor=FFFFFF&fontAlignY=45&desc=BUILD.%20INNOVATE.%20DEVELOP.&descSize=17&descColor=67E8F9&descAlignY=65&animation=fadeIn"/>
+<img width="75%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=footer&color=0:090B1A,30:312E81,65:6D28D9,100:0891B2&text=THE%20JOURNEY%20CONTINUES&fontSize=30&fontColor=FFFFFF&fontAlignY=45&desc=BUILD.%20INNOVATE.%20DEVELOP.&descSize=17&descColor=67E8F9&descAlignY=65&animation=fadeIn"/>
 
-### JAGAN MOHAN VARIKUTI
+### JAGAN MOHAN 
 
 **DREAM BIG. THINK DIFFERENT. BUILD SOMETHING MEANINGFUL.**
 
 <sub>One vision. Endless possibilities. A journey without limits.</sub>
 
-<sub>© Jagan Mohan Varikuti</sub>
+<sub>© Jagan Mohan </sub>
 
 </div>
 
