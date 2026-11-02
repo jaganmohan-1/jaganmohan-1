@@ -1,93 +1,108 @@
 
-<!-- =========================================================
-     JAGAN MOHAN 
-     CINEMATIC DEVELOPER PROFILE
+<!-- =====================================================
+     JAGAN MOHAN VARIKUTI
+     THE CINEMATIC DEVELOPER STORY
      GitHub: jaganmohan-1
-========================================================== -->
+====================================================== -->
 
 <div align="center">
 
-<!-- CINEMATIC HEADER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,35:0B1F42,70:1D4ED8,100:020617&text=JAGAN%20MOHAN&fontSize=65&fontColor=FFFFFF&fontAlignY=45&desc=BUILD.%20INNOVATE.%20DEVELOP.&descSize=18&descAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090B1A,25:312E81,55:6D28D9,80:0891B2,100:090B1A&text=JAGAN%20MOHAN&fontSize=64&fontColor=FFFFFF&fontAlignY=42&desc=THE%20MIND%20BEHIND%20THE%20IDEAS&descSize=17&descColor=67E8F9&descAlignY=63&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=SOFTWARE+DEVELOPER;FULL-STACK+DEVELOPMENT+ENTHUSIAST;ARTIFICIAL+INTELLIGENCE+EXPLORER;TURNING+IDEAS+INTO+DIGITAL+SOLUTIONS" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=800&lines=EVERY+GREAT+IDEA+STARTS+WITH+CURIOSITY.;I+EXPLORE.+I+EXPERIMENT.+I+BUILD.;SOFTWARE+%7C+ARTIFICIAL+INTELLIGENCE+%7C+INNOVATION.;TURNING+IMAGINATION+INTO+DIGITAL+REALITY."/>
 
 <br/><br/>
 
 <a href="https://github.com/jaganmohan-1">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20PROFILE-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORLD-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/jagan-mohan-6b0113344">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-<img src="https://img.shields.io/badge/CONTACT-GET%20IN%20TOUCH-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://instagram.com/vjm.arts">
+<img src="https://img.shields.io/badge/MY%20CREATIVE%20SIDE-E11D48?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jaganmohan-1&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=jaganmohan-1&label=TRAVELLERS%20VISITED%20MY%20PROFILE&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ABOUT -->
-
 <div align="center">
 
-## 01 / THE PERSON BEHIND THE CODE
+# THE STORY BEGINS HERE.
 
-### Turning Curiosity Into Creation.
+### Not just learning technology. Exploring what technology can create.
 
 </div>
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer coding animation"/>
+<img width="100%" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1400&auto=format&fit=crop&q=85" alt="Technology and electronic innovation"/>
 
-I'm **Jagan Mohan**, an aspiring Software Developer and technology enthusiast pursuing Electronics and Communication Engineering at **Kalasalingam Academy of Research and Education**.
+## 01 — THE BEGINNING | WHO AM I?
 
-I am interested in the intersection of software engineering, artificial intelligence, and intelligent digital solutions.
+<img align="right" width="250" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
 
-I enjoy exploring technologies, building applications, solving problems, and transforming creative ideas into practical projects.
+Hello, World! I'm **Jagan Mohan Varikuti**.
 
-**My philosophy:** Learn continuously. Build fearlessly. Improve consistently.
+An Electronics and Communication Engineering student at **Kalasalingam Academy of Research and Education**, with a growing passion for software development, artificial intelligence, and emerging technologies.
 
-- Software Development
-- Full-Stack Applications
-- Artificial Intelligence & Machine Learning
-- IoT and Intelligent Systems
-- Data Analytics
-- Creative Technology
+My journey is about exploring possibilities, learning new technologies, experimenting with ideas, and gradually turning them into meaningful digital experiences.
+
+I believe that great developers are not simply people who write code. They are people who continuously learn, think differently, and find ways to solve problems.
+
+**A curious mind. An ambitious vision. An endless journey of learning.**
 
 <br clear="right"/>
 
 ---
 
-<!-- CURRENT MISSION -->
+## 02 — THE VISION | WHAT DRIVES ME?
 
 <div align="center">
 
-## 02 / CURRENT MISSION
+<img width="90%" src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&auto=format&fit=crop&q=85" alt="Global digital technology network"/>
+
+### THINK BEYOND THE ORDINARY.
 
 </div>
+
+I am interested in the possibilities created when different technologies come together.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### SOFTWARE ENGINEERING
+### <img src="https://img.shields.io/badge/01-6366F1?style=flat-square"/> SOFTWARE ENGINEERING
 
-Building a strong foundation in programming, application development, databases, and software engineering.
+Creating applications, exploring programming, and understanding how real-world software systems work.
 
 </td>
 <td width="50%" valign="top">
 
-### INTELLIGENT TECHNOLOGY
+### <img src="https://img.shields.io/badge/02-06B6D4?style=flat-square"/> ARTIFICIAL INTELLIGENCE
 
-Exploring AI, Machine Learning, IoT, and technology-driven solutions for practical problems.
+Exploring intelligent systems, machine learning, and AI-powered solutions.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/03-10B981?style=flat-square"/> FULL-STACK DEVELOPMENT
+
+Building digital experiences through frontend, backend, databases, and APIs.
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/04-F97316?style=flat-square"/> INNOVATION & IoT
+
+Exploring connected devices, sensors, automation, and intelligent engineering.
 
 </td>
 </tr>
@@ -95,62 +110,56 @@ Exploring AI, Machine Learning, IoT, and technology-driven solutions for practic
 
 ---
 
-<!-- TECH STACK -->
+## 03 — THE TOOLBOX | TECHNOLOGIES I EXPLORE
 
 <div align="center">
 
-## 03 / THE TECHNOLOGY STACK
+<img width="100%" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1400&auto=format&fit=crop&q=85" alt="Collaborative technology workspace"/>
 
-*Tools are instruments. Ideas are the architecture.*
+### EVERY TOOL OPENS A NEW POSSIBILITY.
 
 </div>
 
-### PROGRAMMING LANGUAGES
+**PROGRAMMING**
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark"/>
 </div>
 
-### FRONTEND & BACKEND
+**FRONTEND & BACKEND**
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind&theme=dark"/>
 </div>
 
-### DATABASE & DEVELOPMENT TOOLS
+**DATABASE & DEVELOPMENT TOOLS**
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,vscode,postman&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,vscode,postman&theme=dark"/>
 </div>
 
-### AI & DATA
+**AREAS I'M EXPLORING**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-EXPLORING-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-LEARNING-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-EXPLORING-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/POWER%20BI-EXPLORING-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0891B2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-059669?style=for-the-badge&logo=powerbi&logoColor=white)
+![Internet of Things](https://img.shields.io/badge/Internet_of_Things-EA580C?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
 ---
 
-<!-- PROJECTS -->
+## 04 — THE CREATION | PROJECT UNIVERSE
 
 <div align="center">
 
-## 04 / SELECTED WORKS
+<img width="100%" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1400&auto=format&fit=crop&q=85" alt="Electronic engineering and technology"/>
 
-### Ideas Into Engineering.
+### IDEAS ARE ONLY THE BEGINNING. BUILDING MAKES THEM REAL.
 
-*An evolving collection of software, AI, IoT, and data-driven projects.*
+*A collection of projects, experiments, and ideas across technology.*
 
 </div>
 
@@ -158,84 +167,84 @@ Exploring AI, Machine Learning, IoT, and technology-driven solutions for practic
 <tr>
 <td width="50%" valign="top">
 
+<img width="100%" src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=700&auto=format&fit=crop&q=80" alt="Project management analytics dashboard"/>
+
 ### 01. STUDENT PROJECT MANAGEMENT
 
-A full-stack platform designed to organize student projects, faculty interactions, team collaboration, and task management.
+A web-based platform concept for organizing student projects, faculty interactions, teams, and tasks.
 
-**TECHNOLOGY**
+`REACT` `NODE.JS` `DATABASE`
 
-`React` `Node.js` `Database` `REST API`
-
-**STATUS:** In Development
+<sub>STATUS: IN DEVELOPMENT</sub>
 
 </td>
 <td width="50%" valign="top">
+
+<img width="100%" src="https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=700&auto=format&fit=crop&q=80" alt="Healthcare technology research"/>
 
 ### 02. AI SMART DENTAL MONITORING
 
-An intelligent dental monitoring concept integrating ESP32, sensors, AI analysis, and a web-based monitoring dashboard.
+An intelligent dental monitoring concept integrating ESP32, sensors, AI analysis, and a web dashboard.
 
-**TECHNOLOGY**
+`ESP32` `IoT` `AI`
 
-`ESP32` `IoT` `AI` `Web Dashboard`
-
-**STATUS:** Project Development
+<sub>STATUS: PROJECT DEVELOPMENT</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<img width="100%" src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=700&auto=format&fit=crop&q=80" alt="Electronics and IoT components"/>
 
 ### 03. ENERGY-AWARE IoT ROUTING
 
-A simulation-based project focused on energy-efficient routing algorithms and maximizing wireless sensor network lifetime.
+Exploring energy-efficient routing algorithms to improve wireless sensor network lifetime through simulation.
 
-**TECHNOLOGY**
+`IoT` `ALGORITHMS` `SIMULATION`
 
-`IoT` `Routing Algorithms` `Simulation`
-
-**STATUS:** Project Development
+<sub>STATUS: PROJECT DEVELOPMENT</sub>
 
 </td>
 <td width="50%" valign="top">
 
+<img width="100%" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=700&auto=format&fit=crop&q=80" alt="Agricultural landscape"/>
+
 ### 04. SMART AI CROP ADVISOR
 
-An intelligent agriculture concept using environmental sensors and AI-assisted crop and irrigation recommendations.
+An agriculture-focused concept using environmental sensing and AI-assisted crop and irrigation recommendations.
 
-**TECHNOLOGY**
+`ESP32` `AI` `AGRICULTURE`
 
-`ESP32` `Sensors` `AI` `Agriculture`
-
-**STATUS:** Project Development
+<sub>STATUS: PROJECT DEVELOPMENT</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<img width="100%" src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=700&auto=format&fit=crop&q=80" alt="Business analytics dashboard"/>
+
 ### 05. E-COMMERCE SALES ANALYTICS
 
-A data analytics project exploring customer behavior, sales performance, product trends, and business intelligence.
+Exploring customer behavior, sales performance, product trends, and business intelligence.
 
-**TECHNOLOGY**
+`SQL` `PYTHON` `POWER BI`
 
-`SQL` `Python` `Power BI` `Analytics`
-
-**STATUS:** Development / Learning
+<sub>STATUS: LEARNING / DEVELOPMENT</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 06. MORE EXPERIMENTS
+<img width="100%" src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=700&auto=format&fit=crop&q=80" alt="Night sky and stars"/>
 
-Continuously exploring software engineering, intelligent systems, creative development, and emerging technologies.
+### 06. THE NEXT CHAPTER
 
-**FOCUS**
+New ideas, experiments, and technology explorations are always part of the journey.
 
-`Innovation` `Engineering` `Problem Solving`
+`CREATIVITY` `RESEARCH` `INNOVATION`
 
-**STATUS:** Ongoing
+<sub>STATUS: ONGOING</sub>
 
 </td>
 </tr>
@@ -244,135 +253,105 @@ Continuously exploring software engineering, intelligent systems, creative devel
 <div align="center">
 
 <a href="https://github.com/jaganmohan-1?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<!-- GITHUB PERFORMANCE -->
+## 05 — THE JOURNEY | LEARNING & RECOGNITION
 
 <div align="center">
 
-## 05 / GITHUB ACTIVITY
+<img width="90%" src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=1200&auto=format&fit=crop&q=85" alt="University and learning"/>
 
-### Every Contribution Is Part Of The Journey.
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaganmohan-1&show_icons=true&hide_border=true&bg_color=05070D&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaganmohan-1&layout=compact&hide_border=true&bg_color=05070D&title_color=60A5FA&text_color=CBD5E1&langs_count=8" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=jaganmohan-1&hide_border=true&background=05070D&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaganmohan-1&bg_color=05070D&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="GitHub activity graph"/>
+### EVERY EXPERIENCE ADDS SOMETHING TO THE JOURNEY.
 
 </div>
 
----
-
-<!-- ACHIEVEMENTS -->
-
-<div align="center">
-
-## 06 / RECOGNITION & ACHIEVEMENTS
-
-### Learning Beyond The Classroom.
-
-</div>
-
-| Achievement | Organization |
+| EXPERIENCE | ORGANIZATION |
 |:---|:---|
 | AI Tools Workshop | Be10x |
-| YUVA Hackathon – Team VISION X | Representing KARE |
+| YUVA Hackathon — Team VISION X | Representing KARE |
 | TechFrontier Hackathon 2025 | OWASP & CyberNerds Club |
 | Ignite India Entrepreneurship Program | Wadhwani Foundation |
 
----
+**EDUCATION**
 
-<!-- EDUCATION -->
-
-<div align="center">
-
-## 07 / EDUCATION & BACKGROUND
-
-</div>
-
-<table>
-<tr>
-<td width="100%">
-
-**KALASALINGAM ACADEMY OF RESEARCH AND EDUCATION**
+**Kalasalingam Academy of Research and Education**
 
 Electronics and Communication Engineering
 
-Academic interests:
-Software Engineering · Artificial Intelligence · Intelligent Systems · Technology Innovation
-
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- CONNECT -->
+## 06 — THE PROGRESS | GITHUB ANALYTICS
 
 <div align="center">
 
-## 08 / LET'S CONNECT
+### THE JOURNEY IS BUILT ONE CONTRIBUTION AT A TIME.
 
-### Have An Idea? Let's Build Something Great.
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaganmohan-1&show_icons=true&hide_border=true&bg_color=0D1020&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github"/>
 
-I'm interested in connecting with developers, technology enthusiasts, innovators, and people building meaningful projects.
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaganmohan-1&layout=compact&hide_border=true&bg_color=0D1020&title_color=A78BFA&text_color=E2E8F0&langs_count=8"/>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=jaganmohan-1&hide_border=true&background=0D1020&ring=A78BFA&fire=FB923C&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaganmohan-1&bg_color=0D1020&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY"/>
+
+</div>
+
+---
+
+## 07 — THE CONNECTION | BEYOND THE CODE
+
+<div align="center">
+
+<img width="100%" src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=1400&auto=format&fit=crop&q=85" alt="Futuristic digital immersive technology"/>
+
+# THE BEST IDEAS GROW WHEN THEY ARE SHARED.
+
+I'm always interested in meeting people who create, experiment, learn, and think beyond boundaries.
+
+Whether it's software, AI, innovation, or a creative collaboration — let's connect.
 
 <br/>
 
 <a href="https://github.com/jaganmohan-1">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/jagan-mohan-6b0113344">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/vjm.arts">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 <a href="https://youtube.com/@vjm-arts">
 <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
+
+<br/><br/>
 
 </div>
 
 ---
 
-<!-- CLOSING -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:020617&height=160&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=footer&color=0:090B1A,30:312E81,65:6D28D9,100:0891B2&text=THE%20JOURNEY%20CONTINUES&fontSize=30&fontColor=FFFFFF&fontAlignY=45&desc=BUILD.%20INNOVATE.%20DEVELOP.&descSize=17&descColor=67E8F9&descAlignY=65&animation=fadeIn"/>
 
-# JAGAN MOHAN 
+### JAGAN MOHAN VARIKUTI
 
-### BUILD. INNOVATE. DEVELOP.
+**DREAM BIG. THINK DIFFERENT. BUILD SOMETHING MEANINGFUL.**
 
-**Turning Ideas Into Intelligent Digital Solutions.**
+<sub>One vision. Endless possibilities. A journey without limits.</sub>
 
-<br/>
-
-<sub>Designed with creativity. Built with technology. Driven by curiosity.</sub>
-
-<br/><br/>
-
-<sub>© Jagan Mohan  | All Rights Reserved</sub>
+<sub>© Jagan Mohan Varikuti</sub>
 
 </div>
 
-<!-- END OF README -->
+<!-- END -->
